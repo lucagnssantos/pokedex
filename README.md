@@ -1,3 +1,11 @@
+#Nomes
+Eduardo Jabur Chede Malaghin.
+Fabio Henrique Spiller Veloso
+Lucas Gabriel Nunes dos Santos
+Vinícius Wamser Gogoglla 
+
+----------------------------------------------
+
 # Pokédex Catálogo (Flutter + PokéAPI)
 
 Projeto somativo de catálogo interativo, usando a [PokéAPI](https://pokeapi.co/) como
